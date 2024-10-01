@@ -1,0 +1,7 @@
+<resources>
+    <style name="MyTimePicker" parent="android:Widget.Material.TimePicker">
+        <item name="android:textColorPrimary">@android:color/white</item> <!-- Ana metin rengi -->
+        <item name="android:background">@android:color/transparent</item> <!-- Arka plan rengi -->
+    </style>
+</resources>
+
