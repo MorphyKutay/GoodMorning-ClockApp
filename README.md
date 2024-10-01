@@ -11,8 +11,8 @@ If you have any feedback, please contact us at kutaysec@protonmail.com.
   
 ## Screenshots
 
-<img src="https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/1.png" width=50% height=50%>
-<img src="https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/2.png" width=50% height=50%>
+<img src="https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/1.png" width=20% height=20%>
+<img src="https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/2.png" width=20% height=20%>
 
 ## License
 
