@@ -14,7 +14,8 @@ If you have any feedback, please contact us at kutaysec@protonmail.com.
 ![alltext](https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/1.png =250x250)
 
 ![alltext](https://github.com/MorphyKutay/GoodMorning-ClockApp/blob/main/2.png =250x250)
-  
+  <img src="https://i.imgur.com/ZWnhY9T.png" width=50% height=50%>
+
 ## License
 
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
